@@ -1,4 +1,4 @@
 # text-summarization
 Automatic Text Summarization
 
-Wikipedia page summarization
+Wikipedia or web page summarization
